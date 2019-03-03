@@ -1,0 +1,6 @@
+CampaignCreator contract address(My version)
+0x199575D07a82c5ad2B3552ab640fa6Ae1b534216
+
+
+Campaign creator contract address (Stephen grider version):
+0x6781254E1F854569CA1999391FfaDE415F4DaB9B
