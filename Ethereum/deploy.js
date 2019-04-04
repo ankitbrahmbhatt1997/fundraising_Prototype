@@ -3,7 +3,7 @@ const Web3 = require("web3");
 const campaignCreator = require("./Build/CampaignFactory.json");
 
 let provider = new HDWalletProvider(
-  "9F5A20236D2B2138F32C8B5BF7823531351908421FDD3BDB1ECC8A22771F6B82", // use your testnet account private key
+  "", // use your testnet account private key
   "https://rinkeby.infura.io/v3/bb20540179824ccb94cf748904d43090" // Use link provided by infura
 );
 
